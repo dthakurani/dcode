@@ -65,4 +65,6 @@ int main() {
 
 	cout<<"\nArray after sort\n";
 	printArray(arr, size);
+
+	return 0;
 }
